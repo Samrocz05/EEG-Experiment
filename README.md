@@ -32,6 +32,7 @@ Total flow:
 - Thank you screen
 
 ---
+<img width="1978" height="1100" alt="image" src="https://github.com/EEG-Experiment/assets/EEG.png" />
 
 ## 📁 Project Structure
 
@@ -43,15 +44,12 @@ psyco-eeg-digit-imagination/
 ├── main.py
 └── meditation.mp3 (optional, you can use your own audio)
 
-yaml
-
-
 ---
 
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-<img width="1978" height="1100" alt="image" src="https://github.com/EEG-Experiment/assets/EEG.png" />
+<img width="2379" height="1180" alt="image" src="https://github.com/assets/git_clone.png" />
 
 
 ```
@@ -116,5 +114,4 @@ Let me know if:
 - You’d like help uploading this to **GitHub with commit history**
 - Or you'd like to **connect EEG hardware** (e.g., Emotiv or OpenBCI) to collect real-time data while this script runs
 
-Ready to generate your `.zip` folder?
 
