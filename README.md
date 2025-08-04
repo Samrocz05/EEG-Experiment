@@ -50,7 +50,7 @@ psyco-eeg-digit-imagination/
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-<img width="2379" height="1180" alt="image" src="https://github.com/assests/git_clone.png" />
+![EEG Experiment](https://raw.githubusercontent.com/Samrocz05/EEG-Experiment/main/assests/git_clone.png)
 
 
 ```
