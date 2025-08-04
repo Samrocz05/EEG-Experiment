@@ -32,7 +32,7 @@ Total flow:
 - Thank you screen
 
 ---
-<img width="1978" height="1100" alt="image" src="https://github.com/EEG-Experiment/assets/EEG.png" />
+<img width="1978" height="1100" alt="image" src="https://github.com/EEG-Experiment/assests/EEG.png" />
 
 ## 📁 Project Structure
 
@@ -49,7 +49,7 @@ psyco-eeg-digit-imagination/
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-<img width="2379" height="1180" alt="image" src="https://github.com/assets/git_clone.png" />
+<img width="2379" height="1180" alt="image" src="https://github.com/assests/git_clone.png" />
 
 
 ```
