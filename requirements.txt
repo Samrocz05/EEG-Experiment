@@ -1,0 +1,5 @@
+psychopy
+
+sounddevice (optional, for custom audio playback)
+
+pip install psychopy sounddevice
