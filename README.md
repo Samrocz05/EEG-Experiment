@@ -115,3 +115,6 @@ Let me know if:
 - Or you'd like to **connect EEG hardware** (e.g., Emotiv or OpenBCI) to collect real-time data while this script runs
 
 Ready to generate your `.zip` folder?
+
+<img width="1978" height="1100" alt="image" src="https://github.com/user-attachments/assets/614feb3b-9099-48f1-a5fc-c3edf58070fa" />
+
