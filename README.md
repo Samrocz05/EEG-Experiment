@@ -32,7 +32,8 @@ Total flow:
 - Thank you screen
 
 ---
-<img width="1978" height="1100" alt="image" src="https://github.com/EEG-Experiment/assests/EEG.png" />
+![EEG Experiment](https://raw.githubusercontent.com/Samrocz05/EEG-Experiment/main/assests/EEG.png)
+
 
 ## 📁 Project Structure
 
