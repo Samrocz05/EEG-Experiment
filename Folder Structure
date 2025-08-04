@@ -1,1 +1,7 @@
-
+psyco-eeg-digit-imagination/
+├── README.md
+├── requirements.txt
+├── experiment/
+│   ├── main.py
+│   └── meditation.mp3   # (optional: replace with actual audio file)
+└── LICENSE
